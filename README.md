@@ -13,3 +13,7 @@ Protokol dan riset awal per 22 November 2026 WIB. Rekomendasi awal adalah pilot 
 - [Keputusan](revoult/DECISIONS.md)
 - [Draf penawaran dan contoh sintetis](revoult/SALES_ASSETS.md)
 - [Tindakan berikutnya](revoult/NEXT_ACTIONS.md)
+
+## Tim agen Revoult
+
+Delapan agen proyek Codex tersedia di [`.codex/agents/`](.codex/agents/). [Panduan tim](revoult/AGENT_TEAM.md) memuat cara memanggil peran, alur kerja, dan repository pembanding.
